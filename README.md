@@ -7,7 +7,7 @@ This gem provides a ruby wrapper to the poloniex.com api: [Link](https://polonie
 
 Add this line to your application's Gemfile:
 
-    gem "poloniex", :git => "git://github.com/PabiGamito/poloniex.git"
+    gem "poloniex", :git => "https://github.com/PabiGamito/poloniex"
 
 And then execute:
 
