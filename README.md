@@ -7,7 +7,7 @@ This gem provides a ruby wrapper to the poloniex.com api: [Link](https://polonie
 
 Add this line to your application's Gemfile:
 
-    gem 'poloniex'
+    gem "poloniex", :git => "git://github.com/PabiGamito/poloniex.git"
 
 And then execute:
 
@@ -41,7 +41,6 @@ POST requests ( to /tradingApi ) will need authentication, and you will have to 
 ## Contributing
 
 1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+2. Commit your changes (`git commit -am 'Add some feature'`)
+3. Push to your forked repository (`git push`)
+4. Create a new Pull Request
